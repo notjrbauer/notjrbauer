@@ -1,11 +1,7 @@
-<div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-  <img  src="http://www.nyan.cat/cats/original.gif" width="150" />
-  <br>
-<br>
-<br>
-  <pre><code>npx notjrbauer</code></pre>
-</div>
+<br/>
+<img src="https://github.com/notjrbauer/notjrbauer/blob/master/assets/lines.svg" align="left" width="300" alt="notjrbauer"/>
+
+# Hi, I'm John Bauer 👋
+<a href="https://bauer.gg"> Website </a>
+<br />
+<br /
